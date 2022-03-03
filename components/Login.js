@@ -10,7 +10,7 @@ function Login() {
                     src="https://i.pinimg.com/564x/dd/95/1b/dd951b246da5859e34a06bbb95484ab9.jpg" height={200} width={200}/>
                 <button className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse"
                     onClick={authenticate}>
-                    Login with Meta Mask
+                    Let's go
                 </button>
             </div>
 
